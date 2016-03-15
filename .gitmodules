@@ -1,0 +1,3 @@
+[submodule "svchax"]
+	path = svchax
+	url = https://github.com/aliaspider/svchax.git
